@@ -1,2 +1,2 @@
 # first-repository
-this is for practice.
+this is for practice and learning.
